@@ -1,0 +1,12 @@
+{
+  "name": "zz-w1-gitmod",
+  "version": "1.0.0",
+  "homepage": "http://ssrf.jd.local/c3f3f53c12674acdc9855f47b85299f0.html",
+  "repository": {
+    "type": "git",
+    "url": "http://ssrf.jd.local/c3f3f53c12674acdc9855f47b85299f0.html"
+  },
+  "dependencies": {
+    "w1probe": "http://ssrf.jd.local/c3f3f53c12674acdc9855f47b85299f0.html"
+  }
+}
